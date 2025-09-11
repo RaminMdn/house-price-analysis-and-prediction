@@ -1,10 +1,12 @@
 '''
 
-This file helps in performing additional tasks on the notebook file, such as finding statistics about the lines count.
+This file helps in performing additional tasks on the notebook file, such as finding statistics about the lines/word count.
 
-The subject of the tasks done is the existing housing prediction notebook file in the current folder.
+So, the subject of the tasks done by this file is the existing notebook file in the current folder. 
 
-Statistics such as the total number of Python code lines can be observed by running the file.
+This file does not have anything to do with data analysis and prediction. It is mostly about notebook file metadata and related tasks.
+
+Statistics such as the total number of Python code lines, number of code and text cells, etc. can be observed by running the file.
 
 '''
 
